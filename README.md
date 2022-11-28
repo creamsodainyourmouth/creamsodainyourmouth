@@ -5,8 +5,12 @@ that are based on interaction between users – these can be various communicati
 messaging services, forums and chats.
 Can use PHP(Yii), Python(Flask, Django) and JavaScript (Vue).
 
+💎🌸💎🌸💎🌸💎
+
 I am also interested in social media analysis: most of all – natural language processing, text classification,
 want to study this direction, implement machine learning algorithms in web projects.
+
+✨✨✨✨✨✨✨
 
 At now i'm learning Linux server administration, deploying, programming patterns,
 Docker and NoSQL databases.
