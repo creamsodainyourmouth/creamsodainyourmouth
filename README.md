@@ -1,5 +1,5 @@
 
-👀 Hi, I am @creamsodainyourmouth
+👀 Hi, I am @creamsodainyourmouth, frontend/backend web-developer.
 I am interested in web development. Mostly – backend part like develop system,
 that are based on interaction between users – these can be various communication tools:
 messaging services, forums and chats.
